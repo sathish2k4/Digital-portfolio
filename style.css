@@ -1,0 +1,78 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+main {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+section {
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Custom resume design */
+
+body {
+  background-color: #ccffff;
+}
+
+header {
+  color: #000;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+h2 {
+  color: #000;
+}
+
+ul {
+  color: #000;
+}
+
+a {
+  color: #000;
+}
+
+footer {
+  color: #000;
+}
